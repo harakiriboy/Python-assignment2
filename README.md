@@ -1,7 +1,7 @@
 # Python-assignment2
 Python program for retrieveing some amount of news articles from CoinmarketCap cryptocurrency webpage
 
-##Installation
+## Installation
 In order to run this program, firstly install required packages and modules from requirements.txt file
 There will be needed packages like BeautifulSoup and Requests
 
@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
 ```
 Then go to download webscraper.py and newsarticels.py python files from src folder above
 
-##Usage
+## Usage
 
 To start using it go to the terminal and open this ass1.py file from here
 ```bash
